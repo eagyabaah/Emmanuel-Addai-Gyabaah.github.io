@@ -1,6 +1,7 @@
 # An RNAi Screen of Regulators Reveals the Adhesion G-Protein Coupled Receptor CIRL Regulates Collective cell Migration 
 
 Emmanuel A. Gyabaah<sup>1,2</sup>, Jenevieve Norton<sup>2</sup>, Maik Bischoff<sup>2</sup>, Erika Munguia<sup>2</sup>, Noah Gurley<sup>2</sup>, Sarah Clark<sup>2</sup>, and Mark Peifer<sup>2,3</sup> 
+
 <sup>1</sup> Department of Biochemistry and Biotechnology, Kwame Nkrumah University of Science & Technology, <sup>2</sup> Department of Biology, University of North Carolina at Chapel Hill, <sup>3</sup> Lineberger Comprehensive Cancer Center
 
 # ABSTRACT
